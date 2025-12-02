@@ -1,6 +1,7 @@
 DOMAIN,cloudflare-dns.com
 DOMAIN,dns.google
 DOMAIN-SUFFIX,quad9.net
+DOMAIN-SUFFIX,dnscry.pt
 DST-PORT,5228
 DST-PORT,5229
 DST-PORT,5230
