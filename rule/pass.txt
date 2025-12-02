@@ -33,3 +33,4 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN,api.cloudflare.com
 DOMAIN-KEYWORD,leigod
 DOMAIN-SUFFIX,shenzaokeji.com
+DOMAIN-SUFFIX,90dao.com
