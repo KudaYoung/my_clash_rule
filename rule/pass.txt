@@ -1,7 +1,6 @@
 GEOIP,cn,no-resolve
 GEOSITE,cn
 GEOSITE,category-games
-GEOSITE,bing
 GEOSITE,apple
 GEOSITE,category-game-platforms-download
 DOMAIN-SUFFIX,240503.xyz
