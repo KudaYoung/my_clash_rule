@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,androiddatahost.com
 DOMAIN-SUFFIX,openwrt.org
 GEOIP,telegram,no-resolve
+DST-PORT,5223
+DST-PORT,5228
