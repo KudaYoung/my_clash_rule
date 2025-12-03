@@ -6,8 +6,6 @@ GEOSITE,youtube
 GEOIP,telegram,no-resolve
 GEOIP,twitter,no-resolve
 GEOIP,facebook,no-resolve
-DST-PORT,5223
-DST-PORT,5228
 DOMAIN,cloudflare-dns.com
 DOMAIN,dns.google
 DOMAIN-SUFFIX,quad9.net
