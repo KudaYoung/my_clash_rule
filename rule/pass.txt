@@ -3,6 +3,7 @@ GEOSITE,cn
 GEOSITE,category-games
 GEOSITE,bing
 GEOSITE,apple
+GEOSITE,category-game-platforms-download
 DOMAIN-SUFFIX,240503.xyz
 DOMAIN-SUFFIX,fnos.net
 DOMAIN-SUFFIX,ipip.net
