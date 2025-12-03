@@ -1,0 +1,9 @@
+GEOIP,cn,no-resolve
+GEOSITE,cn
+GEOSITE,category-games
+GEOSITE,apple
+GEOSITE,category-game-platforms-download
+DOMAIN-KEYWORD,leigod
+DST-PORT,3478
+DST-PORT,3479
+DST-PORT,7000
