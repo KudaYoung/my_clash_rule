@@ -1,4 +1,3 @@
-GEOSITE,google
 GEOSITE,github
 GEOSITE,cloudflare
 GEOSITE,telegram
