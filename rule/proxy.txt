@@ -20,3 +20,9 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,androiddatahost.com
 DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,twitchsvc.net
