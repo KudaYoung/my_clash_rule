@@ -3,6 +3,5 @@ GEOSITE,cloudflare
 GEOSITE,telegram
 GEOSITE,x
 GEOSITE,youtube
-GEOIP,telegram
-GEOIP,twitter
-GEOIP,facebook
+GEOSITE,twitter
+GEOSITE,facebook
