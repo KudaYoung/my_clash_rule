@@ -1,10 +1,8 @@
 GEOSITE,category-game-platforms-download
 GEOSITE,category-games@cn
 GEOSITE,cn
-GEOIP,cn
 DOMAIN-KEYWORD,leigod
 DST-PORT,3478
 DST-PORT,3479
 DST-PORT,7000
 DST-PORT,7002
-DST-PORT,53
