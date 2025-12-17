@@ -1,13 +1,11 @@
 payload:
   - GEOSITE,github
   - GEOSITE,cloudflare
-  - GEOSITE,telegram
   - GEOSITE,x
   - GEOSITE,youtube
   - GEOSITE,twitter
   - GEOSITE,facebook
   - GEOSITE,reddit
-  - GEOSITE,google
   - GEOSITE,instagram
   - GEOSITE,twitch
   - GEOSITE,epicgames
