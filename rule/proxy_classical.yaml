@@ -11,3 +11,4 @@ payload:
   - GEOSITE,instagram
   - GEOSITE,twitch
   - GEOSITE,epicgames
+  - IP-CIDR,185.222.222.222/32,no-resolve
