@@ -1,10 +1,9 @@
 payload:
   - 'cloudflare-dns.com'
   - 'dns.google'
-  - 'dns.quad9.net'
   - 'dns.cloudflare.com'
-  - 'doh.opendns.com'
   - 'dns.nextdns.io'
   - 'dns.controld.com'
   - 'doh.flashstart.com'
   - 'api.cloudflare.com'
+  - 'doh.dns.sb'
