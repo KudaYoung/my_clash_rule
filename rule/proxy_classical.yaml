@@ -2,7 +2,6 @@ payload:
   - GEOSITE,github
   - GEOSITE,cloudflare
   - GEOSITE,x
-  - GEOSITE,youtube
   - GEOSITE,twitter
   - GEOSITE,facebook
   - GEOSITE,reddit
