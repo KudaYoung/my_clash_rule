@@ -1,8 +1,6 @@
 payload:
   - GEOSITE,category-game-platforms-download
   - GEOSITE,category-games
-  - category-games
-  - DOMAIN-KEYWORD,leigod
   - DST-PORT,3478
   - DST-PORT,3479
   - DST-PORT,7000
