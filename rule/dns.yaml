@@ -7,3 +7,4 @@ payload:
   - 'doh.flashstart.com'
   - 'api.cloudflare.com'
   - 'doh.dns.sb'
+  - 'dns.quad9.net'
