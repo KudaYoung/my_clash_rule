@@ -28,14 +28,14 @@
 ## 📁 文件说明
 | 规则名  | 规则格式|规则类型| 简要说明|
 | ---------- | -----------|-----------|-----------|
-| **Directip** |TXT|ipcidr| 直连的IP地址列表 |
-| **US_classical** |TXT|classical| 美国相关服务的规则 |
-| **drop** |TXT|classical| 需要拒绝连接的规则 |
-| **pass_classical** | TXT|classical|经典直连服务列表 |
-| **pass_domain** |TXT|domain| 直连域名列表 |
-| **proxy_classical** |TXT|classical| 经典代理服务列表 |
-| **proxy_domain** | TXT|domain|代理域名列表 |
-
+| **Directip** |YAML|classical| 直连的来源IP地址列表（192.168.0.2-192.168.0.199）|
+| **US_classical** |YAML|classical| 美国相关服务的规则 |
+| **drop** |YAML|classical| 需要拒绝连接的规则 |
+| **pass_classical** | YAML|classical|经典直连服务列表 |
+| **pass_domain** |YAML|domain| 直连域名列表 |
+| **proxy_classical** |YAML|classical| 经典代理服务列表 |
+| **proxy_domain** |YAML|domain|代理域名列表 |
+| **convert** |INI|subconverter配置|订阅转换配置（建议搭配Fake-ip以避免dns泄露）|
 ## 🛠️ 如何使用（如果你想参考）
 
 如果你确实想尝试使用或参考：
